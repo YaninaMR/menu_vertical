@@ -2,4 +2,6 @@
 
 ## Objetivo: Crear una Web que muestre un menu vertical 
 
-![menu_vertical][img/mv.png]
+### Herramientas : HTML5/CSS3
+
+![menu_vertical](img/mv.png)
